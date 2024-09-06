@@ -37,7 +37,8 @@ Build the Project:
 npm run build
 
 Start the Development Server:
-npm start
+npm start.
+
 The application will be available at http://localhost:8080.
 
 API Data
